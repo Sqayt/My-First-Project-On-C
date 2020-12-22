@@ -1,0 +1,32 @@
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\bin\Debug\DataBaseClientOfPhone.mdf
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\bin\Debug\DataBaseClientOfPhone_log.ldf
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\bin\Debug\TestFormOne.exe.config
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\bin\Debug\TestFormOne.exe.manifest
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\bin\Debug\TestFormOne.application
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\bin\Debug\TestFormOne.exe
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\bin\Debug\TestFormOne.pdb
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\obj\Debug\TestFormOne.csprojAssemblyReference.cache
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\obj\Debug\TestFormOne.Form1.resources
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\obj\Debug\TestFormOne.Properties.Resources.resources
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\obj\Debug\TestFormOne.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\obj\Debug\TestFormOne.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\obj\Debug\TestFormOne.exe.manifest
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\obj\Debug\TestFormOne.application
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\obj\Debug\TestFormOne.exe
+C:\Users\Данил\source\repos\TestFormOne\TestFormOne\obj\Debug\TestFormOne.pdb
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\bin\Debug\DataBaseClientOfPhone.mdf
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\bin\Debug\DataBaseClientOfPhone_log.ldf
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\bin\Debug\TestFormOne.exe.config
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\bin\Debug\TestFormOne.exe.manifest
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\bin\Debug\TestFormOne.application
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\bin\Debug\TestFormOne.exe
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\bin\Debug\TestFormOne.pdb
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\obj\Debug\TestFormOne.csprojAssemblyReference.cache
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\obj\Debug\TestFormOne.Form1.resources
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\obj\Debug\TestFormOne.Properties.Resources.resources
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\obj\Debug\TestFormOne.csproj.GenerateResource.cache
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\obj\Debug\TestFormOne.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\obj\Debug\TestFormOne.exe.manifest
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\obj\Debug\TestFormOne.application
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\obj\Debug\TestFormOne.exe
+C:\Users\Данил\Desktop\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\obj\Debug\TestFormOne.pdb

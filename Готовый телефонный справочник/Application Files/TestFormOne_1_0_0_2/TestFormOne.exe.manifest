@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="TestFormOne.exe" version="1.0.0.2" publicKeyToken="036c6f88af290c66" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TestFormOne" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TestFormOne.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TestFormOne.exe" size="17888">
+      <assemblyIdentity name="TestFormOne" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5nKzIan0ry8HCB4+HPyNPXxMAtDhxDDsTo/Cu/NxMTs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DataBaseClientOfPhone.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bbQVMwAg+N2Xjd7/pDRPEfBfWx26NwzdQiF+o8vgTqI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataBaseClientOfPhone_log.ldf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5sJxcwINoL41MzI5TosCA47hGPnTxAyDH2PQUv7lb1I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TestFormOne.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-EDJUQRU\Данил" issuerKeyHash="6d45e7fcf0095cecf02a0721b145994a072153e8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>3ubsjhsKSo4nUDMABvpjYlqSRoaACZ5x2v2rdBWQsmU=</DigestValue></Reference></SignedInfo><SignatureValue>v/eHjCQdRa52HFaJOrxE2yeEbtEfYJe164wDzh08SmoSJzWXm363cfjv5Ib5e8+ik6BL0+8olP7QSTJhLdCenqzYTNsNvwxjQOk2PSr37LIz4T4WkCVE7GqLrfbDXdY7ARfxYWAXq8J+5s+g967drqewlz5ryGYca+RASR5VrJM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xia9+UI+F++W+BU59/fTyfjpLQPCmT7zbjir/qgztf3A/j8shdrlnThDAsjkcIbuJCIGY5LHFcS7S/cubBBtWdWGZxaLM0KPUIyKkpcCGi/mklfEIfG15ryIBzm+VptWYiGH9vMYX6bepk2DgZKyLjcGDnqm1Z9AHl3fDomTrGk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="65b2901574abfdda719e09808646925a6263fa06003350278e4a0a1b8eece6de" Description="" Url=""><as:assemblyIdentity name="TestFormOne.exe" version="1.0.0.2" publicKeyToken="036c6f88af290c66" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-EDJUQRU\Данил</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>NJ9mYTaueYMOd+BZ3ORPf4ciLyk/t2G/1h4BIf3x33E=</DigestValue></Reference></SignedInfo><SignatureValue>b2X8/K0KVzFoLKak5DHvsLD2IvygUXHz2P4NuC1hqao+55wDy1u3XPscYexNGBnRaOiexrM99/pYCwAe/n0viLHI8WstNaMd7BoT7sGs7u3LkY112mV97FkGtztZas570xdw+cFVunFNTpFyLwtMo9A47YSZy4byFMZ4Z5gXcCo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xia9+UI+F++W+BU59/fTyfjpLQPCmT7zbjir/qgztf3A/j8shdrlnThDAsjkcIbuJCIGY5LHFcS7S/cubBBtWdWGZxaLM0KPUIyKkpcCGi/mklfEIfG15ryIBzm+VptWYiGH9vMYX6bepk2DgZKyLjcGDnqm1Z9AHl3fDomTrGk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQEwOVUb0CD5ZKtWk7dw6J/TANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEUARABKAFUAUQBSAFUAXAQUBDAEPQQ4BDswHhcNMjAxMjAyMTY1ODMzWhcNMjExMjAyMjI1ODMzWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEUARABKAFUAUQBSAFUAXAQUBDAEPQQ4BDswgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMYmvflCPhfvlvgVOff308n46S0Dwpk+8244q/6oM7X9wP4/LIXa5Z04QwLI5HCG7iQiBmOSxxXEu0v3LmwQbVnVhmcWizNCj1CMipKXAhov5pJXxCHxtea8iAc5vlabVmIhh/bzGF+m3qZNg4GSsi43Bg56ptWfQB5d3w6Jk6xpAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAn/NumF1ofCoHT7hebzBRd+mku9v5aOrI/ibpzrSqNzYQwBsJH9x3sz6HMGq+f2Yoglve6yR2w4owQ4V2oIP3kgb3s29ZE0k+8J8uYQLa6hy5xWhYwuTLy48wPWKo4l9KYk1fjMfllHU6qZwv7AX9j1eFPfkP1MWsIiwYT4LY7Ck=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
