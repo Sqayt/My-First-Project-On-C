@@ -82,7 +82,7 @@ namespace TestFormOne
 
         private void Form1_Load(object sender, EventArgs e)//в этом методе обрабатываю вывод на GriedView информации с БД при запуске программы
         {
-            sqlConnection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Данил\source\repos\TestFormOne\TestFormOne\DataBaseClientOfPhone.mdf;Integrated Security=True");// создаю соеденения для подключения БД
+            sqlConnection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\dekstop\Programming\GitHub\последняя попытка для SIMPL Иванов Д.С\Исходники\TestFormOne\TestFormOne\DataBaseClientOfPhone.mdf;Integrated Security=True");// создаю соеденения для подключения БД
 
             sqlConnection.Open();// открываю соеденение
            

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="TestFormOne.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="TestFormOne.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="TestFormOne" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TestFormOne.exe" size="17888">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TestFormOne.exe" size="123360">
       <assemblyIdentity name="TestFormOne" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5nKzIan0ry8HCB4+HPyNPXxMAtDhxDDsTo/Cu/NxMTs=</dsig:DigestValue>
+        <dsig:DigestValue>EfHji6TiYT8nxbT+b6sFHsl7iD++TD3Api9w+gfihWo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -59,7 +59,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>bbQVMwAg+N2Xjd7/pDRPEfBfWx26NwzdQiF+o8vgTqI=</dsig:DigestValue>
+      <dsig:DigestValue>qI/3W58AYfCvguSVyXcUo5X5/Q+WOeTcTCGf6QUVJ8k=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DataBaseClientOfPhone_log.ldf" size="8388608" writeableType="applicationData">
@@ -68,7 +68,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>5sJxcwINoL41MzI5TosCA47hGPnTxAyDH2PQUv7lb1I=</dsig:DigestValue>
+      <dsig:DigestValue>4oLQb69cHKxO6Brv8RR9SH86uZ6F5aJ1uxuInpdNg3Q=</dsig:DigestValue>
     </hash>
   </file>
   <file name="TestFormOne.exe.config" size="189">
